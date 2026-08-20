@@ -1,4 +1,4 @@
 Taylor
 ======
 
-Taylor github io
+taylor.github.io
